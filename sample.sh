@@ -3,5 +3,6 @@
 echo "I'm the first line here"
 echo "I'm the second line and another one"
 echo "I'm the third line"
+echo "From the new branch"
 
 exit 0
